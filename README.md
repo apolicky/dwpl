@@ -16,8 +16,8 @@ The program is build with `make` command and uses `g++` compiler with c++17 stan
 To unpack and compile the program do the following steps:
 
 ```console
-unzip dwpl.zip
-cd dwpl/bin
+git clone https://github.com/apolicky/dwpl
+cd dwpl/src
 make
 ```
 
